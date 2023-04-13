@@ -10,7 +10,7 @@ tagline: Java后端技术博客，积跬步以至千里，致敬每个爱学习�
 features: # 可选的
   - title: Java
     details: JavaEE、JavaWeb、Spring全家桶框架等后端技术
-    link: /java/ # 可选
+    link: /Java/ # 可选
     imgUrl: /img/java.png # 可选
   - title: devops
     details: 运维开发相关技术
@@ -18,7 +18,7 @@ features: # 可选的
     imgUrl: /img/devops.png
   - title: FAQ
     details: 常见问题
-    link: /faq/
+    link: /FAQ/
     imgUrl: /img/faq.png
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
@@ -27,9 +27,6 @@ features: # 可选的
 # hideRightBar: true # 是否隐藏右侧边栏
 ---
 
-
-<!-- 小熊猫 -->
-<!-- <img src="/img/panda-waving.png" class="panda no-zoom" style="width: 130px;height: 115px;opacity: 0.8;margin-bottom: -4px;padding-bottom:0;position: fixed;bottom: 0;left: 0.5rem;z-index: 1;"> -->
 
 <!--
 ## 关于

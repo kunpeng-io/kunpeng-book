@@ -60,19 +60,25 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         text: 'Spring',
         link: '/Spring/',
         items: [
-          { text: 'Spring Boot', link: '/pages/8309a5b876fc95e3/'  },
-          { text: 'Spring Cloud', link: '/pages/0a83b083bdf257cb/' },
+          { text: 'Spring Boot', link: '/pages/8e7551/'  },
+          { text: 'Spring Cloud', link: '/pages/cc7276/' },
         ],
       },
       {
         text: '中间件',
-        link: '/technology/',
+        link: '/Middleware/',
         items: [
         ],
       },
       {
-        text: '更多',
-        link: '/more/',
+        text: 'Devops',
+        link: '/devops/',
+        items: [
+        ],
+      },
+      {
+        text: 'FAQ',
+        link: '/FAQ/',
         items: [
         ],
       },
